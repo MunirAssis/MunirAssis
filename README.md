@@ -35,20 +35,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, explorando programa
   <img src="https://streak-stats.demolab.com?user=MunirAssis&hide_border=true&background=0b1120&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff&currStreakNum=79c0ff&sideLabels=c9d1d9&sideNums=79c0ff&dates=8b949e&stroke=25314a" alt="Sequência de contribuições públicas">
 </p>
 
-## Atividade e conquistas
+## Snake de contribuições
 
-<p>
-  <a href="https://github.com/MunirAssis"><img src="./assets/profile-activity.svg" alt="Ver atividade pública no perfil do GitHub" width="32%"></a>
-  <a href="https://github.com/MunirAssis"><img src="./assets/profile-achievements.svg" alt="Ver conquistas no perfil do GitHub" width="32%"></a>
-</p>
-
-## Contribuições em movimento
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MunirAssis/MunirAssis/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MunirAssis/MunirAssis/output/github-contribution-grid-snake.svg">
-  <img alt="Animação da grade de contribuições do GitHub" src="https://raw.githubusercontent.com/MunirAssis/MunirAssis/output/github-contribution-grid-snake.svg">
-</picture>
+![Animação da cobra de contribuições](https://raw.githubusercontent.com/MunirAssis/MunirAssis/output/github-contribution-grid-snake-dark.svg)
 
 ## Contato
 
