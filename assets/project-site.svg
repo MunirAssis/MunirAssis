@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="112" viewBox="0 0 320 112" role="img" aria-labelledby="title">
+  <title id="title">projeto-site — abrir repositório</title>
+  <rect x="1" y="1" width="318" height="110" rx="8" fill="#0b1120" stroke="#263750" stroke-width="2"/>
+  <rect x="1" y="1" width="5" height="110" rx="2" fill="#58a6ff"/>
+  <text x="24" y="27" fill="#8b9bb0" font-family="monospace" font-size="12" letter-spacing="2">PROJETO 01</text>
+  <text x="24" y="62" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">projeto-site</text>
+  <text x="24" y="91" fill="#79c0ff" font-family="monospace" font-size="11" letter-spacing="1">ABRIR REPOSITÓRIO</text>
+  <path d="M279 78V39m0 0h-18m18 0-25 25" fill="none" stroke="#58a6ff" stroke-width="2"/>
+</svg>

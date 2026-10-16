@@ -18,22 +18,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, explorando programa
 
 ## Projetos
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3><a href="https://github.com/MunirAssis/projeto-site">projeto-site</a></h3>
-      <a href="https://github.com/MunirAssis/projeto-site">Abrir repositório ↗</a>
-    </td>
-    <td align="center" width="33%">
-      <h3><a href="https://github.com/MunirAssis/SG">SG</a></h3>
-      <a href="https://github.com/MunirAssis/SG">Abrir repositório ↗</a>
-    </td>
-    <td align="center" width="33%">
-      <h3><a href="https://github.com/MunirAssis/projeto-cordel">projeto-cordel</a></h3>
-      <a href="https://github.com/MunirAssis/projeto-cordel">Abrir repositório ↗</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/MunirAssis/projeto-site"><img src="./assets/project-site.svg" alt="Abrir o repositório projeto-site" width="32%"></a>
+  <a href="https://github.com/MunirAssis/SG"><img src="./assets/project-sg.svg" alt="Abrir o repositório SG" width="32%"></a>
+  <a href="https://github.com/MunirAssis/projeto-cordel"><img src="./assets/project-cordel.svg" alt="Abrir o repositório projeto-cordel" width="32%"></a>
+</p>
 
 ## GitHub
 
@@ -43,20 +32,17 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, explorando programa
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=MunirAssis&hide_border=true&background=0b1120&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="Sequência de contribuições públicas">
+  <img src="https://streak-stats.demolab.com?user=MunirAssis&hide_border=true&background=0b1120&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff&currStreakNum=79c0ff&sideLabels=c9d1d9&sideNums=79c0ff&dates=8b949e&stroke=25314a" alt="Sequência de contribuições públicas">
 </p>
+
+## Atividade e conquistas
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MunirAssis&bg_color=0b1120&color=c9d1d9&line=58a6ff&point=79c0ff&area=true&hide_border=true" alt="Gráfico de atividade pública no GitHub">
+  <a href="https://github.com/MunirAssis"><img src="./assets/profile-activity.svg" alt="Ver atividade pública no perfil do GitHub" width="32%"></a>
+  <a href="https://github.com/MunirAssis"><img src="./assets/profile-achievements.svg" alt="Ver conquistas no perfil do GitHub" width="32%"></a>
 </p>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=MunirAssis&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="Conquistas públicas do GitHub">
-</p>
-
-## Snake de contribuições
-
-O GitHub Actions gera esta animação diariamente. Para iniciar ou executar novamente, abra **Actions** → **Generate contribution snake** → **Run workflow** no repositório.
+## Contribuições em movimento
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MunirAssis/MunirAssis/output/github-contribution-grid-snake-dark.svg">
